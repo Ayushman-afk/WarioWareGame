@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+icon.svg
+Gemini_Generated_Image_x9xuodx9xuodx9xu.jpg.import
+title_screen.gd
+icon.svg.import
